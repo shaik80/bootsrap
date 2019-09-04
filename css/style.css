@@ -17,13 +17,14 @@ height: 100vh;
 }
 .singleBox
 {
-   position: inherit;
+   position: absolute;
    background-color: blueviolet;
    display: block;
    height: 100px;
    width: 100px;
 }
 .container.weatherContainer{
+   margin-top: 100px !important;
    margin: 0;
    padding: 0;
 }
